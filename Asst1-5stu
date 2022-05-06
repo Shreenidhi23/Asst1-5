@@ -1,0 +1,14 @@
+s={1:[1,'maya','female','bca','pass'],2:[2,'Arjun','female','bca','pass'],3:[3,'Nethra','female','bca','pass'],4:[4,'Nithin','male','bca','fail']}
+x=int(input('enter the student no: '))
+print('enter the serial no: ',s[x][0])
+print('name of the student: ',s[x][1])
+print('gender: ',s[x][2])
+print('group: ',s[x][3])
+print('result: ',s[x][4
+o/p:
+enter the student no: 1
+enter the serial no: 1
+name of the student: akhila
+gender: female
+group: bca
+result: pass
